@@ -1,7 +1,8 @@
 # Projeto-Fundamentos-do-Power-BI
 Contribuição do Projeto Fundamentos do Power BI
 
-OBSERVAÇÃO:
+OBSERVAÇÃO: Descrição da Atualização no POWER BI em Relação aos Mapas pela Microsoft no link Abaixo.
+
 https://learn.microsoft.com/pt-br/power-bi/fundamentals/whats-new
 
 Não foi possível colocar mapa, pois esta havendo uma atualização no Power BI neste mês de outubro. 
