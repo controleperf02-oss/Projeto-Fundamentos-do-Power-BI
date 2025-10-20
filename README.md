@@ -1,5 +1,5 @@
 # Projeto-Fundamentos-do-Power-BI
-Contribuição do Projeto Fundamentos do Power BI
+Contribuição do Projeto Fundamentos do Power BI: Em anexo Relatório Financials em arquivo .pdf
 
 OBSERVAÇÃO: Não foi possível colocar mapa, pois esta havendo uma atualização no Power BI neste mês de outubro. 
 
